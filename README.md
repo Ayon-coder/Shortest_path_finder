@@ -1,4 +1,4 @@
 # Shortest_path_finder
-Author-Ayon Sadhukhan
+Author-Ayon
 <br>
 Its just a simple and basic prototype
